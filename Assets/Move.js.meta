@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: fcbb69a6a9838314f8086a383e6a1293
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - footsteps: {fileID: 8300000, guid: 19e1377422cb16d41baeb01262ca6597, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
